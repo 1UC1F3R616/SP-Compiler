@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/SP-Compiler.svg)](http://hits.dwyl.io/D-E-F-E-A-T/SP-Compiler)
+
 # SP-Compiler
 🤖 Super Python Compiler
 
