@@ -20,7 +20,7 @@ Compiled *C* code is 10 to 100(numeration, iterations) times faster then duplica
 
 </br>
 
-Language processing system are kept general:
+Language processing system is kept general:
     
     Skeleton source program
             ⬇
@@ -42,7 +42,7 @@ Language processing system are kept general:
 
 </br>
 
-Phases of compiler are kept general:
+Phases of compiler is kept general:
 
     Source program
         ⬇
