@@ -74,7 +74,7 @@ Phases of compiler is kept general:
 
 </br>
 
-Making it to support all py libraries in indeed requires an industrial level work.
+Making it to support all Py libraries indeed requires an industrial level work.
 
 This project is for additional learning in Theory of compiler, from idea of project to it's devlopement has been done by Team D-E-F-E-A-T.
 
